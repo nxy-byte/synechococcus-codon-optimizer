@@ -35,6 +35,4 @@ Python 3
 ## Author
 Kritika | B.Tech Biotechnology, GGSIPU  
 Inspired by Dr. Dave Savage's work on CO₂ fixation engineering — IGI, UC Berkeley
-## Author
-Kritika | B.Tech Biotechnology, GGSIPU  
-Inspired by Dr. Dave Savage's work on CO₂ fixation engineering — IGI, UC Berkeley
+
